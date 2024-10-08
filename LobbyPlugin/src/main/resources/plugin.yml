@@ -1,0 +1,8 @@
+name: LobbyPlugin
+main: com.example.lobbyplugin.LobbyPlugin
+version: 1.0
+api-version: 1.16
+commands:
+  lobby:
+    description: Lobby commands
+    usage: /<command>
